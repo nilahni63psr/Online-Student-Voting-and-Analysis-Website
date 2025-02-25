@@ -1,0 +1,68 @@
+
+.content{
+    background-color: teal;
+    font-size:large;
+    display: flex;
+    flex-direction: row;
+    border-Radius:10px;
+    height:50px;
+    width:100%;
+    font-size: larger;
+    place-content: end;
+    gap:30px;
+    padding-top: 30px;
+    }
+
+    a{
+        color: white;
+        font-size: larger;
+    }
+      .Form{
+        display: flex;
+        justify-content: center; 
+        align-items: center;  
+        width:450px; 
+        height:500px;
+        text-align: center; 
+        flex-direction:row;
+        background-color: palevioletred;
+        border-radius: 10px;
+        border: 3px solid black;
+        margin-top: 50px;
+        margin-left: 500px;
+        margin-top:50px;
+        font-family: Arial, Helvetica, sans-serif;
+      } 
+.Form input{
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+    border:none;
+}
+.Form textarea{
+    height: 70px;
+    width: 250px;
+    border-radius: 10px;
+    border: none;
+}
+.Form label{
+    font-weight: bold;
+}
+.Form button{
+    height: 50px;
+    width: 100px;
+    background-color: teal;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.container {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/000/453/432/original/vector-contact-us-background.jpg');
+    background-size: cover; 
+    background-position: center;  
+    background-repeat: no-repeat;  
+    height: 690px;
+padding: 20px; 
+  }

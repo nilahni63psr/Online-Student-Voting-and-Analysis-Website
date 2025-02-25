@@ -1,0 +1,12 @@
+
+.now{
+    margin-left: 20px;
+    border-radius: 5px;
+    background-color: teal;
+    height: 40px;
+    width: 100px;
+    font-weight: bold;
+    border: none;
+    color:white;
+    font-weight: bold;
+}

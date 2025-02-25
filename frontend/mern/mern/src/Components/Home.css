@@ -1,0 +1,12 @@
+.primary-nav
+{
+    display: flex;
+    flex-direction: row;
+    gap:30px;
+}
+.main{
+    background-color: white;
+}
+.wel{
+    background-color: teal;
+}

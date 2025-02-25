@@ -1,0 +1,10 @@
+.popup{
+    background-color: teal;
+    height: auto;
+    width: 400px;
+    border: 2px solid black;
+    margin-left: 550px;
+}
+#pop{
+    margin-left: 20px;
+}

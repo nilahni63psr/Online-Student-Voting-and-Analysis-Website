@@ -1,0 +1,19 @@
+
+.input1{
+  height: 50px;
+  width: 300px;
+  border-radius: 5px;
+  border: 2px solid none;
+}
+
+#acc{
+  background-color: teal;
+  height: 50px;
+  width: 100px;
+  margin-left: 20px;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+  font-weight: bold;
+  border: none;
+ }

@@ -1,0 +1,16 @@
+.Table{
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 100%;
+}
+table{
+    margin-top: 15px;
+    border-collapse: collapse;
+    width:100%;
+    }
+    th,td{
+      border:2px solid black;
+    }
+    .Table button{
+      margin-left: 80px;
+    }

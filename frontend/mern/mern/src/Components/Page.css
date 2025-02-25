@@ -1,0 +1,17 @@
+.formContainer{
+    background-color: navajowhite;
+    height: 350px;
+}
+.form1{
+    margin-left: 550px;
+}
+.form1 input 
+{
+    height: 50px;
+    width: 300px;
+}
+.form1 button{
+    height: 80px;
+    width: 100px;
+    margin-left: 60px;
+}
