@@ -1,16 +1,10 @@
 {
   "Candidates": [
     {
-      "name": "Kalai Selvi K",
-      "img": "https://th.bing.com/th/id/OIP.0T4jJie7jDNWsH2XuXXpvgHaE8?rs=1&pid=ImgDetMain",
-      "desc": "A student is an individual who is actively engaged in learning, typically in an academic environment such as a school, college, or university. They pursue education to acquire knowledge, skills, and competencies in various subjects or fields of study",
-      "id": "5844"
-    },
-    {
-      "id": "b3f3",
-      "name": "NILAHNI N",
-      "img": "https://th.bing.com/th/id/OIP.yir0s_y4ZBciy9TQFvkPRgHaE8?rs=1&pid=ImgDetMain",
-      "desc": "A student is an individual who is actively engaged in learning, typically in an academic environment such as a school, college, or university. They pursue education to acquire knowledge, skills, and competencies in various subjects or fields of study"
+      "name": "",
+      "img": "",
+      "desc": "",
+      "id": ""
     }
   ],
   "Admin": [
@@ -20,119 +14,7 @@
       "pass": "",
       "email": "",
       "pin": "",
-      "id": "b709"
-    },
-    {
-      "id": "a0d6",
-      "name": "nmbjm",
-      "job": "gkb",
-      "email": "gjh",
-      "pass": "ofids",
-      "pin": "7676"
-    },
-    {
-      "id": "be1e",
-      "name": "",
-      "job": "",
-      "email": "",
-      "pass": "",
-      "pin": "456457"
-    },
-    {
-      "id": "2c6e",
-      "name": "",
-      "job": "",
-      "email": "",
-      "pass": "",
-      "pin": "23475"
-    },
-    {
-      "id": "d905",
-      "name": "",
-      "job": "",
-      "email": "",
-      "pass": "",
-      "pin": ""
-    },
-    {
-      "id": "8eb0",
-      "name": "",
-      "job": "",
-      "email": "",
-      "pass": "",
-      "pin": ""
-    },
-    {
-      "id": "8f1b",
-      "name": "",
-      "job": "",
-      "email": "",
-      "pass": "",
-      "pin": ""
-    },
-    {
-      "id": "bac6",
-      "name": "",
-      "job": "",
-      "email": "",
-      "pass": "",
-      "pin": ""
-    },
-    {
-      "id": "2ccd",
-      "name": "",
-      "job": "",
-      "email": "",
-      "pass": "",
-      "pin": ""
-    },
-    {
-      "id": "741d",
-      "name": "",
-      "job": "",
-      "email": "",
-      "pass": "",
-      "pin": ""
-    },
-    {
-      "id": "3ec5",
-      "name": "",
-      "job": "",
-      "email": "",
-      "pass": "",
-      "pin": ""
-    },
-    {
-      "id": "6ebc",
-      "name": "",
-      "job": "",
-      "email": "",
-      "pass": "",
-      "pin": ""
-    },
-    {
-      "id": "f308",
-      "name": "",
-      "job": "",
-      "email": "",
-      "pass": "",
-      "pin": ""
-    },
-    {
-      "id": "2a05",
-      "name": "",
-      "job": "",
-      "email": "",
-      "pass": "",
-      "pin": ""
-    },
-    {
-      "id": "a0db",
-      "name": "NILAHNI N",
-      "job": "Staff",
-      "email": "22cs063@psr.edu.in",
-      "pass": "pssr",
-      "pin": "3256"
+      "id": ""
     }
   ]
 }
